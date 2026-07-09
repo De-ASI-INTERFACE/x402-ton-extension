@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: 'x402-TON: HTTP 402 Payment-Gated Routing on The Open Network'
+version: 1.0.0
+date-released: '2026-07-09'
+type: software
+authors:
+  - family-names: Patterson
+    given-names: Richard
+    alias: De-ASI-INTERFACE
+    country: US
+repository-code: 'https://github.com/De-ASI-INTERFACE/x402-ton-extension'
+license: MIT
+abstract: >-
+  x402 HTTP 402 payment-gated routing for TON. Toncoin and Jetton (TEP-74)
+  payment gates, FunC/Tact contract enforcement, STON.fi v2/DeDust routing,
+  LT ordering, seqno replay prevention, Lean 4 formal verification.
+keywords: [ton, toncoin, jetton, tep74, stonfi, deduct, x402, http-402, lean4, richard-patterson]
